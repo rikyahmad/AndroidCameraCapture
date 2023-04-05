@@ -82,7 +82,6 @@ public class CaptureActivity extends AppCompatActivity {
                     // Error occurred while creating the File
                     displayMessage(this, ex.getMessage());
                 }
-
             } else {
                 displayMessage(this, "Null result");
             }

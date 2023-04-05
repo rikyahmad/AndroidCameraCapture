@@ -30,7 +30,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.example.captureimage.fileprovider"
+            android:authorities="com.staygrateful.androidcameracapture"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
